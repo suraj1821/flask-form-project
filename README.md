@@ -68,7 +68,7 @@ Enhancements & Future Improvements:
 - ✅ AJAX-based form submission for a better user experience.
 - ✅ Pagination for the records page.
 - ✅ Search & filter functionality.
-- ✅ Deploy the project on **Render/Vercel/Heroku.
+- ✅ Deploy the project on Render/Vercel/Heroku.
 
 License
 This project is licensed under the MIT License.
