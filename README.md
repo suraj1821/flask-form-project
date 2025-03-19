@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/cac1dea0-e711-4d93-95e7-4bfb79f5bdf3
-
-
-
-https://github.com/user-attachments/assets/aea6a1ce-9d21-4f42-87c5-d9261edbdabc
-
 Flask Form Handling Project with SQLite
 
 Overview:
@@ -84,9 +76,4 @@ This project is licensed under the MIT License.
 
 Contributions are welcome! 🚀 Feel free to fork the repository and submit pull requests.
 
-
-
-
-
-
-
+https://github.com/user-attachments/assets/cac1dea0-e711-4d93-95e7-4bfb79f5bdf3
