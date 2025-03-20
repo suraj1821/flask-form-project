@@ -65,15 +65,15 @@ Usage:
 5. Optionally, delete a record if needed.
 
 Enhancements & Future Improvements:
-- ✅ AJAX-based form submission for a better user experience.
-- ✅ Pagination for the records page.
-- ✅ Search & filter functionality.
-- ✅ Deploy the project on Render/Vercel/Heroku.
+-  AJAX-based form submission for a better user experience.
+-  Pagination for the records page.
+-  Search & filter functionality.
+-  Deploy the project on Render/Vercel/Heroku.
 
 License
 This project is licensed under the MIT License.
 
 
-Contributions are welcome! 🚀 Feel free to fork the repository and submit pull requests.
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 https://github.com/user-attachments/assets/cac1dea0-e711-4d93-95e7-4bfb79f5bdf3
